@@ -90,4 +90,5 @@ export default function App() {
         <Tab.Screen name="InputList" component={InputList} />
       </Tab.Navigator>
     </NavigationContainer>
- 
+  );
+}
